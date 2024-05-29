@@ -1,3 +1,5 @@
-env
+# ignore env, __pycache__, requirement.txt folders and files
+
+requirement.txt
 __pycache__
 requirement.txt

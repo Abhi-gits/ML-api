@@ -11,6 +11,7 @@ from sklearn.metrics import accuracy_score
 # creating FastAPI instance
 app = FastAPI()
 
+
 # Creating a simple endpoint for get request
 @app.get("/")
 def first_example():
